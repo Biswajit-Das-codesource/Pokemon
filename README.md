@@ -17,10 +17,6 @@
     <h2>Installation</h2>
     <p>Follow the steps below to set up and run the project:</p>
     <ol>
-        <li>Clone the repository:
-            <pre><code>git clone &lt;repository-url&gt;
-cd &lt;repository-directory&gt;</code></pre>
-        </li>
         <li>Install dependencies:
             <pre><code>npm install</code></pre>
         </li>
