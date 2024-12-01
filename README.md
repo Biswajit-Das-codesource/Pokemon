@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokémon Explorer - README</title>
-</head>
-<body>
+
     <h1>Pokémon Explorer</h1>
     <p>A React-based web application that lets users explore and search for Pokémon using data from the <a href="https://pokeapi.co/" target="_blank">PokéAPI</a>.</p>
 
@@ -93,7 +86,6 @@ cd &lt;repository-directory&gt;</code></pre>
     <p>This project is open-source and available for modification and distribution.</p>
 
     <footer>
-        <p>Created with ❤️ by [Your Name].</p>
+        <p>Created with ❤️ by Biswajit Das.</p>
     </footer>
-</body>
-</html>
+
